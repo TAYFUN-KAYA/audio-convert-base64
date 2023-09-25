@@ -12,7 +12,7 @@
     "convert audio to base64",
     "audio to base64"
   ],
-  "version": "1.1.2",
+  "version": "1.1.3",
   "engines": {
     "vscode": "^1.82.0"
   },
@@ -26,7 +26,7 @@
       "activitybar": [
         {
           "id": "auido-sidebar-view",
-          "title": "My Extension",
+          "title": "Convert :",
           "icon": "media/sound.svg"
         }
       ]
@@ -36,7 +36,7 @@
         {
           "type": "webview",
           "id": "auido-sidebar",
-          "name": "MyExtension",
+          "name": "Audio To Base64",
           "icon": "media/sound.svg",
           "contextualTitle": "MyExtension"
         }
