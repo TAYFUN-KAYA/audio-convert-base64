@@ -8,8 +8,8 @@ While developing, sometimes we need the base64 version of the audio file. We go 
 
 In the first use version, you can convert audio files very efficiently.
 
-### 1.0.0
+### 1.0.1
 
-active release of 1.0.0
+active release of 1.0.1
 
 **Enjoy!**
