@@ -6,7 +6,7 @@
   "icon": "media/icon.png",
   "repository": {
     "type": "git",
-    "url": "https://github.com/TAYFUN-KAYA/audio-convert-base64.git"
+    "url": "https://github.com/TAYFUN-KAYA/audio-convert-base64"
   },
   "keywords": [
     "convert audio to base64",
