@@ -1,8 +1,6 @@
-# rgbtohex README
+# convert audio to base64 README
 
 While developing, sometimes we need the base64 version of the audio file. We go to various unreliable sites, upload the audio file and convert it to base64. You will now be able to reliably get the base64 version of your audio file with this tool.
-
-![ssExample](<Screenshot 2023-09-25 at 09.46.12.png>)
 
 ## Release Notes
 
